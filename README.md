@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img src="./output1.png" alt="output1" width="200"/>
+<img src="./output2.png" alt="output2" width="200"/>
+<img src="./output3.png" alt="output3" width="200"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
