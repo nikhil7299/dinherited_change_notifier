@@ -33,6 +33,10 @@ class SliderData extends ChangeNotifier {
 
 final sliderData = SliderData();
 
+//InheritedWidget holds onto its own value
+//InheritedNotifier doesn't itself contains a value, it's depended on Notifier which is a
+//listnable such as Value or ChangeNotifier
+
 class SliderInheritedNotifier extends InheritedNotifier<SliderData> {
   // const SliderInheritedNotifier({
   //   Key? key,
